@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697255104 source:c:\users\zenif\onedrive\escritorio\diccionario\funciones.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
+1697254970 c:\users\zenif\onedrive\escritorio\diccionario\funciones.h
+
+1697255221 source:c:\users\zenif\onedrive\escritorio\diccionario\main.c
+	<stdio.h>
+	<string.h>
+	"funciones.h"
+
